@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">WhereIs</string>
+
+    <string name="action_settings">Configuracion</string>
+    <string name="save_text">Guardar localización</string>
+    <string name="delete_text">Borrar localización</string>
+    <string name="searching_text">Buscando localización</string>
+    <string name="title_activity_save_position">Mapa</string>
+    <string name="title_activity_list_locations">Lista</string>
+    <string name="title_location_hint">Nombre</string>
+    <string name="description_location_hint">Descripción adicional</string>
+    <string name="error">Error</string>
+    <string name="success">Éxito</string>
+    <string name="save_location_ok">Guardar localización: OK</string>
+    <string name="save_location_error">La localización no fue guardada</string>
+</resources>
